@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek_pverma" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_pverma?logo=twitter&style=for-the-badge" alt="abhishekpverma" /></a> </p>
 
-- 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">witcherscode</a>
+<!-- - 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">witcherscode</a> -->
 
 - 🌱 I’m currently learning  **Web 3.0 😁**
 
